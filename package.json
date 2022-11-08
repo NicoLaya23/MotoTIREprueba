@@ -1,0 +1,23 @@
+{
+  "name": "mototireprueba",
+  "version": "1.0.0",
+  "description": "Sprint 1: https://drive.google.com/file/d/16Ssn4FiGt_hUWPsXYysjze63FP2rxc-Y/view \r Sprint 2: https://drive.google.com/file/d/1qmrlVIY1rKOGIr-vLzkFzX-BYrdVtRmv/view",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoLaya23/MotoTIREprueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoLaya23/MotoTIREprueba/issues"
+  },
+  "homepage": "https://github.com/NicoLaya23/MotoTIREprueba#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
